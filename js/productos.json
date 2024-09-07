@@ -1,0 +1,152 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera 1",
+        "imagen": "./assets/camperas/01.jpg",
+        "categoria": {
+            "nombre": "camperas",
+            "id": "camperas"
+        },
+        "precio": 140000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Campera 2",
+        "imagen": "./assets/camperas/02.jpg",
+        "categoria": {
+            "nombre": "camperas",
+            "id": "camperas"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera 3",
+        "imagen": "./assets/camperas/03.jpg",
+        "categoria": {
+            "nombre": "camperas",
+            "id": "camperas"
+        },
+        "precio": 170000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera 4",
+        "imagen": "./assets/camperas/04.jpg",
+        "categoria": {
+            "nombre": "camperas",
+            "id": "camperas"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "Campera 5",
+        "titulo": "Campera 5",
+        "imagen": "./assets/camperas/06.jpg",
+        "categoria": {
+            "nombre": "camperas",
+            "id": "camperas"
+        },
+        "precio": 160000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Remera 1",
+        "imagen": "./assets/remeras/01.jpg",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Remera 2",
+        "imagen": "./assets/remeras/02.jpg",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Remera 3",
+        "imagen": "./assets/remeras/03.jpg",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Remera 4",
+        "imagen": "./assets/remeras/04.jpg",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Remera 5",
+        "imagen": "./assets/remeras/05.jpg",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 14000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Jeans 1",
+        "imagen": "./assets/Jeans/01.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "Jeans"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Jeans 2",
+        "imagen": "./assets/Jeans/02.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "Jeans"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Jeans 3",
+        "imagen": "./assets/Jeans/03.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "Jeans"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Jeans 4",
+        "imagen": "./assets/Jeans/04.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "Jeans"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Jeans 5",
+        "imagen": "./assets/Jeans/05.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "Jeans"
+        },
+        "precio": 19000
+    }
+]
